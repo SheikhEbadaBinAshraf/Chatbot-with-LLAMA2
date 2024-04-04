@@ -13,7 +13,12 @@
 ### Create you venv environment "conda create -p venv python==3.10 -y"  
   
 
-### activate venv environment "conda activate venv"  
+### activate venv environment "conda activate venv" 
+
+
+### store your API_KEYS on .env file like this LANGCHAIN_API_KEY="*****************************",OPENAI_API_KEY="*********************************************",LANGCHAIN_PROJECT="Chatbot1"
+
+
   
 
 ![](https://github.com/SheikhEbadaBinAshraf/Chatbot-with-LLAMA2/blob/main/2.png?raw=true)  
