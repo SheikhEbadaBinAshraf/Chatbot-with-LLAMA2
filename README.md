@@ -16,7 +16,7 @@
 ### activate venv environment "conda activate venv" 
 
 
-### store your API_KEYS on .env file like this LANGCHAIN_API_KEY="*****************************",OPENAI_API_KEY="*********************************************",LANGCHAIN_PROJECT="Chatbot1"
+### store your API_KEYS on .env file like this LANGCHAIN_API_KEY="********************",OPENAI_API_KEY="*******************",LANGCHAIN_PROJECT="Chatbot1"
 
 
   
